@@ -1,6 +1,5 @@
 hello GitHub
 wellcome
-<<<<<<< HEAD
 add line
 add line
 yes
