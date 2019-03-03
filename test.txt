@@ -2,8 +2,5 @@ hello GitHub
 wellcome
 <<<<<<< HEAD
 add line
-yes
-=======
 add line
 yes
->>>>>>> test1
