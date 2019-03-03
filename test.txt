@@ -1,4 +1,9 @@
 hello GitHub
 wellcome
-add two line
-no
+<<<<<<< HEAD
+add line
+yes
+=======
+add line
+yes
+>>>>>>> test1
